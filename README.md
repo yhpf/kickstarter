@@ -1,7 +1,7 @@
 # kickstarter
 What will make your project at Kickstarter successful?
 
-Status: This project is in progress!
+Status: Relaunch of project March 22nd 2019. This project is in progress!
 
 
 ## About this project
@@ -35,3 +35,12 @@ The data contained following 17 columns:
 * duration
 
 And nearly 46,000 rows.
+
+## Notebooks
+
+### kickstarter.ipynb 
+Initial work with the data.
+
+
+## PDF
+Contains the presentation of the findings made prior to GA, only working with MS Excel. 
