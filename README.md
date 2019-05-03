@@ -1,7 +1,7 @@
 # kickstarter
 What will make your project at Kickstarter successful?
 
-Status: Relaunch of project March 22nd 2019. This project is in progress!
+Status: Relaunch of project May 3rd 2019. This project is in progress!
 
 
 ## About this project
