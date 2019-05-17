@@ -39,8 +39,10 @@ And nearly 46,000 rows.
 ## Notebooks
 
 ### kickstarter.ipynb 
-Initial work with the data.
+Initial work with the data. Includes cleaning, EDA and data munching.
 
+### kickstarter.ipynb 
+Using the data to find insights.
 
 ## PDF
 Contains the presentation of the findings made prior to GA, only working with MS Excel. 
