@@ -1,7 +1,7 @@
 # kickstarter
 What will make your project at Kickstarter successful?
 
-Status: Relaunch of project May 3rd 2019. This project is in progress!
+Status: Relaunch of project September 5th 2019. This project is in progress!
 
 
 ## About this project
@@ -41,7 +41,7 @@ And nearly 46,000 rows.
 ### kickstarter.ipynb 
 Initial work with the data. Includes cleaning, EDA and data munching.
 
-### kickstarter.ipynb 
+### kickstarter2.ipynb 
 Using the data to find insights.
 
 ## PDF
